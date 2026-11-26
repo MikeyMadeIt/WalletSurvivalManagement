@@ -1,0 +1,19 @@
+
+# .NET build files
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# SQLite local database files
+**/Database/*.db
+**/Database/*.db-shm
+**/Database/*.db-wal
+
+# Temporary files
+*.log
+*.tmp
+ 

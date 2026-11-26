@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("WalletSurvivalManagement"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50761ea389ea9fb21d3c0975b93c36eb389f94b8"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73735931b778a8d3b6a9116fe0765e2dde2f73cf"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("WalletSurvivalManagement"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("WalletSurvivalManagement"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
