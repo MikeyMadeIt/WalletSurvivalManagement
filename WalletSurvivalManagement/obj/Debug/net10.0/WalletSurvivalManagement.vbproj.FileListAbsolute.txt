@@ -1,0 +1,15 @@
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/bin/Debug/net10.0/WalletSurvivalManagement
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/bin/Debug/net10.0/WalletSurvivalManagement.deps.json
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/bin/Debug/net10.0/WalletSurvivalManagement.runtimeconfig.json
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/bin/Debug/net10.0/WalletSurvivalManagement.dll
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/bin/Debug/net10.0/WalletSurvivalManagement.pdb
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/obj/Debug/net10.0/WalletSurvivalManagement.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/obj/Debug/net10.0/WalletSurvivalManagement.AssemblyInfoInputs.cache
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/obj/Debug/net10.0/WalletSurvivalManagement.AssemblyInfo.vb
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/obj/Debug/net10.0/WalletSurvivalManagement.vbproj.CoreCompileInputs.cache
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/obj/Debug/net10.0/WalletSurvivalManagement.sourcelink.json
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/obj/Debug/net10.0/WalletSurvivalManagement.dll
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/obj/Debug/net10.0/refint/WalletSurvivalManagement.dll
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/obj/Debug/net10.0/WalletSurvivalManagement.pdb
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/obj/Debug/net10.0/WalletSurvivalManagement.genruntimeconfig.cache
+/workspaces/WalletSurvivalManagement/WalletSurvivalManagement/obj/Debug/net10.0/ref/WalletSurvivalManagement.dll
